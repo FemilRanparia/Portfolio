@@ -20,11 +20,7 @@ export default function Projects() {
           className="mb-12"
         >
           <span className="font-mono text-sm text-muted border border-border px-3 py-1 rounded-full bg-surface/50 mb-4 inline-block">
-            <span className="text-primary">projects</span>.
-            <span className="text-foreground/60">map</span>
-            <span className="text-muted">(p {"=>"} </span>
-            <span className="text-foreground/60">&lt;Card /&gt;</span>
-            <span className="text-muted">)</span>
+            <span className="text-primary">// </span>projects
           </span>
           <h2 className="text-3xl md:text-4xl font-bold mt-2">
             Things I&apos;ve <span className="text-gradient">Built</span>
