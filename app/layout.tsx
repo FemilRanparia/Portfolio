@@ -30,6 +30,9 @@ export const metadata: Metadata = {
     "Next.js",
   ],
   authors: [{ name: "Femil Ranparia" }],
+  icons: {
+    icon: "/icon.svg",
+  },
   openGraph: {
     title: "Femil Ranparia | Portfolio",
     description: "Building intelligent systems and seamless digital experiences.",
