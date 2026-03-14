@@ -28,8 +28,7 @@ export default function Skills() {
           className="mb-12"
         >
           <span className="font-mono text-sm text-muted border border-border px-3 py-1 rounded-full bg-surface/50 mb-4 inline-block">
-            <span className="text-primary">&lt;</span>Skills
-            <span className="text-primary">/&gt;</span>
+            <span className="text-primary">// </span>skills
           </span>
           <h2 className="text-3xl md:text-4xl font-bold mt-2">
             Tech <span className="text-gradient">Stack</span>
