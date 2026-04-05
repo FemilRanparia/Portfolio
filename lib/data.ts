@@ -18,7 +18,7 @@ export const personalInfo = {
   batch: "2023 – 2027",
   languages: ["English", "Hindi", "Gujarati"],
   resumeLink:
-    "https://drive.google.com/drive/folders/1QTh2PnacihzcN41OfGcLIF779CJMPSYD",
+    "https://drive.google.com/file/d/1Uc1c9QumRBVjhYOggYser9DzMjCwcLja/view?usp=sharing",
   links: {
     github: "https://github.com/FemilRanparia",
     linkedin: "https://www.linkedin.com/in/femilranparia",
